@@ -1,0 +1,15 @@
+textract==1.6.3
+numpy==1.21.0
+Flask==2.0.1
+Werkzeug==2.0.1
+pyresparser==1.0.6
+nltk==3.6.2
+Flask==2.0.1
+Flask_Cors==3.0.10
+joblib==1.0.1
+scikit_learn==0.22.2.post1
+psutil==5.9.8
+scipy==1.7.3
+spacy==3.7.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
