@@ -6,3 +6,5 @@ __pycache__
 
 # Ignore the myenv directory
 myenv/
+
+.vscode/
