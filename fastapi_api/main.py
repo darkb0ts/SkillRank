@@ -44,5 +44,5 @@ async def process_resumes(job_tags: list, job_description: str, files: list[Uplo
             preprocessed_text, job_tags, job_description, files, file_path)
 
         if task_process:
-            task_done.append(task[1])
+            task_done.append(task)
     return JSONResponse(content={"res": res})
